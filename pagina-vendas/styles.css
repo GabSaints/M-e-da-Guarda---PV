@@ -39,3 +39,7 @@ input:focus-visible,button:focus-visible{outline:3px solid var(--berry);outline-
 
 .closing{text-align:center;padding:36px 24px 72px;border-top:1px solid var(--line)}.closing h2{font:500 clamp(1.8rem,3vw,2.5rem)/1.2 'Playfair Display',Georgia,serif;color:var(--plum);letter-spacing:-.035em}.closing p{max-width:680px;margin:18px auto 25px;font-size:1rem;line-height:1.75;color:var(--muted)}
 .offer-points span::first-letter{color:inherit}
+/* Ajustes de leitura para a narrativa de convivência escolar. */
+.hero h1{max-width:640px}.steps p{max-width:36ch}.opening-copy p{max-width:60ch}
+.inside-copy>p strong{color:var(--plum)}.closing h2 em{font-style:normal;color:var(--accent)}
+@media(max-width:640px){.hero h1{font-size:clamp(2rem,9.6vw,2.5rem)}.closing{padding-inline:0}.closing h2{font-size:2rem}.screen-choice{line-height:1.6}}

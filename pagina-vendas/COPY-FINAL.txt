@@ -1,14 +1,13 @@
 MÃE DA GUARDA | COPY FINAL
-Revisão local de 23/11/2026
+Revisão de alinhamento com as redes, 23/11/2026
 
-VERSÃO APLICADA À PÁGINA
-Preço aprovado: R$ 19,90. Compra permanece desativada por indisponibilidade da entrega e da operação.
+Texto aplicado à versão local. Preço aprovado: R$ 19,90. Compra desativada enquanto a entrega e a operação permanecem indisponíveis. Os três passos e a trilha são apresentados como planejamento; somente a amostra de uma tela está disponível.
 
 METADADOS
-description: Quando seu filho conta que ficou de fora na escola, por onde começar? Conheça o Mãe da Guarda: um roteiro em preparação para observar, conversar e combinar apoio. R$ 19,90. Vendas ainda não abertas.
-ogDescription: Um roteiro em três passos para organizar o que você sabe e preparar uma conversa sobre a convivência na escola. Produto em preparação. R$ 19,90.
-ogTitle: Mãe da Guarda | Saiba por onde começar a conversa
-title: Mãe da Guarda | Saiba por onde começar a conversa
+description: Seu filho observa a brincadeira sem entrar? Conheça a proposta do Mãe da Guarda para observar, conversar e combinar apoio. R$ 19,90. Produto em preparação, sem vendas abertas.
+ogDescription: Uma cena no recreio merece contexto. Conheça o roteiro previsto para mães, pais e responsáveis: observar, conversar e combinar apoio. R$ 19,90. Vendas ainda não abertas.
+ogTitle: Mãe da Guarda | Apoio à convivência escolar
+title: Mãe da Guarda | Apoio à convivência escolar
 
 AVISO INICIAL
 EM PREPARAÇÃO · VENDAS AINDA NÃO ABERTAS
@@ -17,16 +16,16 @@ NAVEGAÇÃO
 ✳ mãe da guarda.
 Conheça o roteiro
 
-1. Quando seu filho fica de fora na escola, como começar a conversa?
+1. Ele observa a brincadeira sem entrar. Como começar a ajudar?
 
-PARA MÃES E RESPONSÁVEIS
-Quando seu filho fica de fora na escola, como começar a conversa?
+PARA MÃES, PAIS E RESPONSÁVEIS
+Ele observa a brincadeira sem entrar. Como começar a ajudar?
 
-O Mãe da Guarda está sendo preparado para ajudar você a organizar o que percebeu, conversar sem pressionar e decidir como apoiar seu filho. Um roteiro em três passos, com uma trilha flexível de sete dias.
+O Mãe da Guarda está sendo preparado para ajudar você a organizar o que observou, abrir uma conversa e combinar apoio com seu filho. Três passos, com uma trilha flexível de sete dias para colocar pequenas ações em prática.
 
 R$ 19,90 · valor previsto para o lançamento
 
-Explorar uma tela de exemplo
+Ver a amostra do primeiro passo
 Comprar por R$ 19,90
 
 O produto ainda não está disponível para compra. A amostra é conceitual e não salva suas escolhas.
@@ -37,52 +36,52 @@ combinar apoio
 
 2. Faixa de apoio
 
-Comece pelo que você sabe.
-O que você observou, o que ele contou e o que ainda precisa entender.
+Escute antes de sugerir uma solução.
+A primeira conversa pode ser curta, sem pedir que ele conte tudo de uma vez.
 
-3. Você percebe uma mudança. Nem sempre sabe o que perguntar.
+3. Ser quieto não explica o que aconteceu no recreio.
 
 Cada criança tem seu jeito de se aproximar.
 QUANDO A CONVIVÊNCIA PREOCUPA
-Você percebe uma mudança. Nem sempre sabe o que perguntar.
+Ser quieto não explica o que aconteceu no recreio.
 
-Talvez seu filho observe a brincadeira sem entrar, conte que ficou de fora de uma atividade ou evite falar do recreio. São situações que merecem escuta, mas que, sozinhas, não explicam o que está acontecendo.
+Às vezes, a criança quer se aproximar dos colegas, mas parece não encontrar uma abertura. Em outros momentos, conta que ficou de fora de uma atividade ou tem dificuldade para falar da escola. Antes de concluir o que isso significa, vale entender como foi aquela situação para ela.
 
-É compreensível ficar em dúvida entre perguntar mais, dar tempo ou conversar com a escola. O roteiro foi pensado para organizar essa conversa, começando pelos fatos e pelo que a criança consegue contar.
+Preferir grupos menores, ter poucos amigos e se sentir deixado de fora não são a mesma experiência. Essas cenas, sozinhas, não comprovam bullying ou um problema clínico. O roteiro foi pensado para ajudar o adulto a reunir contexto, escutar e considerar o apoio necessário.
 
 Veja os três passos
 
-4. Da preocupação a uma conversa possível.
+4. Entenda a cena. Prepare a conversa e combine apoio.
 
 O ROTEIRO EM PREPARAÇÃO
-Da preocupação a uma conversa possível.
+Entenda a cena. Prepare a conversa e combine apoio.
 
-Três passos para o adulto entender o contexto e escolher como agir. Esta é a estrutura prevista para o produto.
+Observar, conversar e combinar apoio são a estrutura prevista para o produto. Por enquanto, só há uma tela conceitual do primeiro passo para explorar. As outras etapas ainda não estão disponíveis.
 
 01
 OBSERVAR
-Separe fatos de dúvidas
+Organize o que você sabe
 
-O primeiro passo propõe distinguir o que você viu do que seu filho relatou. Assim, você identifica o que já sabe e o que precisa perguntar, sem antecipar uma conclusão.
+A proposta é separar o que você observou, o que seu filho contou e o que ainda precisa entender. Na amostra disponível, você escolhe uma situação e lê uma orientação inicial para começar essa reflexão.
 
 02
 CONVERSAR
-Prepare a conversa
+Encontre uma abertura
 
-O segundo passo propõe escolher um momento tranquilo e uma pergunta aberta. A ideia é dar espaço para a criança contar, inclusive se ela precisar retomar o assunto depois.
+Esta etapa prevê ajudar você a preparar uma pergunta e escolher um momento para escutar. Em vez de exigir uma resposta imediata, o adulto pode dar tempo à criança e combinar outra ocasião para conversar.
 
 03
 COMBINAR APOIO
-Decida o que fazer com o que ouviu
+Pense no apoio com a criança
 
-O terceiro passo propõe considerar o apoio necessário: acompanhar a situação, conversar com a escola ou buscar ajuda adequada. A decisão parte do contexto, sem uma resposta igual para todos.
+A proposta desta etapa é pensar com a criança em uma ação possível: acompanhar como têm sido as brincadeiras, combinar uma nova conversa ou envolver a escola quando fizer sentido. O apoio depende do que aconteceu e do que ela precisa.
 
-5. Uma ação breve, um assunto de cada vez.
+5. Você pode começar pequeno e retomar depois.
 
 CONTINUIDADE NO SEU RITMO
-Uma ação breve, um assunto de cada vez.
+Você pode começar pequeno e retomar depois.
 
-A trilha prevista organiza o roteiro em sete dias de pequenas ações. A cada retorno, você retoma o que observou ou conversou para pensar no apoio seguinte. Pode pausar, repetir uma ação e continuar quando fizer sentido.
+A trilha prevista distribui o roteiro em sete dias de pequenas ações. Você começa observando uma situação, prepara uma conversa e depois retoma o que ouviu para pensar no apoio. Pode pausar, repetir uma ação ou voltar ao assunto em outro dia.
 
 01
 Repare no que mudou
@@ -93,54 +92,56 @@ Faça uma pergunta aberta
 04
 Escute sem completar as frases
 05
-Converse sobre o que ajuda
+Pergunte que apoio ele gostaria
 06
 Considere envolver a escola
 07
-Combine como seguir juntos
+Combine quando retomar
 ✳
 
 Os sete dias são uma estrutura flexível de apoio ao responsável. Não são um prazo para mudar a criança, garantir amizades ou resolver bullying. A trilha ainda está em planejamento.
 
-6. Um roteiro digital para consultar durante esse processo.
+6. O que está previsto e o que você já pode conhecer.
 
 CONHEÇA O FORMATO PREVISTO
-Um roteiro digital para consultar durante esse processo.
-Três passos: organizar observações, preparar a conversa e combinar apoio.
-Uma trilha flexível de sete dias: distribuir essas ações e retomar o assunto com calma.
+O que está previsto e o que você já pode conhecer.
+No produto planejado: três passos para organizar observações, preparar uma conversa e pensar no apoio com a criança.
+Na trilha planejada: sete dias de pequenas ações, com liberdade para pausar e retomar.
 
-Esse é o escopo planejado para o web app. A versão completa ainda não está disponível. Você pode explorar uma tela conceitual para conhecer a direção do roteiro.
+Disponível hoje: uma amostra gratuita de uma tela. Você escolhe uma situação e lê uma orientação inicial. Ela não salva respostas e não inclui as três etapas completas. O formato previsto para o produto é um web app; o acesso completo ainda não está disponível.
 
 Abrir a tela de exemplo
 MÃE DA GUARDA
 PASSO 1 / 3
 COMECE COM O QUE VOCÊ SABE
 O que você percebeu?
-◯ Ele tem falado menos da escola
-◉ Contou que ficou de fora
-◯ Ainda não entendi o contexto
+◯ Observa a brincadeira sem participar
+◉ Contou que ficou de fora de uma atividade
+◯ Ainda tenho poucas informações
 Ver orientação inicial
 EXEMPLO CONCEITUAL · NÃO É O PRODUTO COMPLETO
 
-7. Veja como o roteiro pode começar.
+7. A primeira conversa pode ser curta.
 
-EXPLORE A PROPOSTA
-Veja como o roteiro pode começar.
+UM COMEÇO POSSÍVEL
+A primeira conversa pode ser curta.
 
-Na amostra, escolha uma situação e leia uma orientação inicial. É uma única tela de exemplo, sem cadastro e sem salvar respostas.
+Escolha um momento tranquilo e experimente uma pergunta simples: “Como foi o recreio hoje?” Escute antes de sugerir o que ele deve fazer. Se não quiser falar agora, você pode deixar o convite aberto para outro momento.
+
+Para conhecer a proposta, comece pela amostra: escolha a situação mais próxima do que percebeu e leia uma orientação inicial. Sem cadastro e sem salvar respostas.
 
 Explorar a amostra
 
-8. Organize o que sabe. Prepare o que vai perguntar.
+8. Uma forma de apoiar sem tentar mudar o jeito dele.
 
 MÃE DA GUARDA
-Organize o que sabe. Prepare o que vai perguntar.
+Uma forma de apoiar sem tentar mudar o jeito dele.
 
-Um roteiro educativo para mães e responsáveis que se preocupam com a convivência dos filhos na escola. A proposta reúne três passos e uma trilha flexível de sete dias para apoiar as decisões do adulto.
+Um roteiro educativo em preparação para mães, pais e responsáveis que querem apoiar um filho na convivência escolar. A proposta reúne três passos e uma trilha flexível de sete dias para organizar o que observar, como conversar e que apoio considerar.
 
-Observar sem antecipar conclusões
-Ouvir sem exigir uma resposta imediata
-Considerar quando envolver a escola
+Distinguir o que aconteceu do que ainda é dúvida
+Ouvir antes de sugerir como ele deve agir
+Pensar no apoio com a criança e, quando necessário, com a escola
 VALOR PREVISTO PARA O LANÇAMENTO
 R$ 19,90
 
@@ -152,16 +153,21 @@ Conhecer a amostra gratuita
 
 9. O que você precisa saber sobre a proposta.
 
+ANTES DE DECIDIR
+
 O que você precisa saber sobre a proposta.
 
 Para quem o Mãe da Guarda está sendo preparado?
-Para mães e responsáveis preocupados com uma criança que parece ter dificuldade para se aproximar dos colegas, participar das brincadeiras ou encontrar companhia na escola. A faixa etária de uso ainda não foi definida.
+Para mães, pais e responsáveis que querem entender e apoiar a convivência escolar de uma criança: quando ela parece não encontrar uma abertura para se aproximar, conta que ficou de fora ou tem dificuldade para falar do assunto. A faixa etária de uso do produto ainda não foi definida.
 
 O que o roteiro pretende ajudar o adulto a fazer?
-Separar observações de dúvidas, preparar uma conversa acolhedora e escolher um apoio adequado ao contexto. O roteiro não oferece diagnóstico, resultado clínico, amizades garantidas ou solução para bullying.
+A proposta é organizar observações, preparar uma conversa sem pressionar e pensar em uma ação possível com a criança. O roteiro é voltado ao adulto; não oferece treinamento para tornar a criança popular ou extrovertida, diagnóstico, resultado clínico, amizades garantidas ou solução para bullying.
+
+Ser quieto ou ter poucos amigos significa que algo está errado?
+Não necessariamente. Algumas crianças preferem grupos menores ou precisam de mais tempo para iniciar uma conversa. Isso é diferente de querer participar e não encontrar uma abertura. Escute como ela vive a situação, sem transformar seu jeito em defeito nem concluir que há bullying apenas por uma cena.
 
 Como se relacionam os três passos e os sete dias?
-Observar, conversar e combinar apoio são os três passos centrais. A trilha prevista distribui pequenas ações ao longo de sete dias, com liberdade para pausar e retomar. Esse período organiza o uso e não determina quando a situação da criança vai mudar.
+Observar, conversar e combinar apoio são os três passos centrais. A trilha prevista distribui essas ações em sete dias: perceber uma situação, abrir uma conversa, escutar e retomar o apoio. Você pode pausar e repetir. O período organiza o uso pelo responsável; não é prazo para conseguir amigos, mudar comportamento ou resolver bullying.
 
 O que vou receber e como será o acesso?
 O formato planejado é um web app com os três passos e a trilha. O produto completo e as condições de acesso ainda não estão disponíveis. Por enquanto, há somente uma tela conceitual gratuita; ela não representa uma entrega comprada.
@@ -178,11 +184,11 @@ O canal e as condições de atendimento serão informados antes da abertura das 
 Onde consultar cancelamento e reembolso?
 As condições ainda não foram disponibilizadas. Elas deverão estar acessíveis antes de qualquer compra. Neste momento, as vendas estão fechadas e a página não recebe pagamentos.
 
-10. Conheça o roteiro antes de decidir.
+10. Você pode começar escutando uma parte da história.
 
-Conheça o roteiro antes de decidir.
+Você pode começar escutando uma parte da história.
 
-O Mãe da Guarda está sendo preparado com três passos e uma trilha flexível de sete dias, pelo valor de R$ 19,90. Enquanto as vendas não abrem, explore uma tela de exemplo, sem cadastro.
+O Mãe da Guarda está sendo preparado para apoiar o adulto com um roteiro em três passos e uma trilha flexível de sete dias, por R$ 19,90. Enquanto as vendas não abrem, conheça a proposta em uma tela de amostra, sem cadastro.
 
 Explorar a amostra gratuita
 
@@ -195,60 +201,9 @@ UNICEF: conversa com os filhos
 UNICEF: conversa com a escola
 Conteúdo educativo para responsáveis. Imagens ilustrativas; não retratam casos reais. As referências não representam endosso ao produto.
 
-COPY COMERCIAL PARA O LANÇAMENTO | USO CONDICIONADO
-
-Estes trechos não foram publicados nem aplicados como afirmações de disponibilidade. Substituem os avisos de preparação somente depois de existir o produto completo, com o escopo descrito abaixo, acesso e operação testados. Os trechos sem substituição mantêm a redação acima, revisada para refletir o tempo verbal adequado ao produto entregue. Nenhuma condição de acesso, faixa etária, prazo de suporte ou política deve ser preenchida por suposição.
-
-PRIMEIRA DOBRA
-Para mães e responsáveis
-Quando seu filho fica de fora na escola, como começar a conversa?
-O Mãe da Guarda ajuda você a organizar o que percebeu, preparar uma conversa sem pressionar e decidir como apoiar seu filho. Um roteiro digital em três passos, com uma trilha flexível de sete dias para distribuir pequenas ações no seu ritmo.
-R$ 19,90
-CTA de compra: Comprar o Mãe da Guarda por R$ 19,90
-CTA de amostra: Explorar uma tela de exemplo
-Linha de apoio: Conteúdo educativo para o adulto responsável. Os sete dias organizam as ações e não representam um prazo de resultado.
-
-MECANISMO
-Da preocupação a uma conversa possível.
-Observar, conversar e combinar apoio. Cada passo ajuda você a trabalhar com as informações que tem, sem exigir que a criança conte tudo de uma vez.
-1. Observar: separe o que você viu do que seu filho relatou e identifique o que ainda precisa perguntar.
-2. Conversar: prepare uma pergunta aberta e escolha um momento em que possa escutar, respeitando o tempo da criança.
-3. Combinar apoio: considere o contexto e decida se cabe acompanhar, conversar com a escola ou buscar ajuda adequada.
-Não citar campos, modelos, registros ou ferramentas específicas sem confirmar sua implementação.
-
-TRILHA
-Uma ação breve, um assunto de cada vez.
-A trilha distribui o roteiro em sete dias de pequenas ações. Retome o que observou e conversou para decidir o que merece atenção agora. Você pode pausar, repetir uma ação e continuar quando fizer sentido.
-Manter as sete ações e o esclarecimento de que não há prazo de resultado.
-
-CONTEÚDO DA COMPRA
-Um roteiro digital para consultar durante esse processo.
-Três passos para organizar observações, preparar a conversa e combinar apoio.
-Uma trilha flexível de sete dias para distribuir essas ações e retomar o assunto com calma.
-A tela de exemplo continua identificada como amostra. Só apresentá-la como tela real se corresponder à implementação final.
-
-OFERTA
-Organize o que sabe. Prepare o que vai perguntar.
-Mãe da Guarda: roteiro educativo em formato de web app, com três passos e uma trilha flexível de sete dias para apoiar as decisões do adulto sobre a convivência escolar.
-R$ 19,90
-CTA: Comprar o Mãe da Guarda por R$ 19,90
-Antes da ativação, acrescentar forma e duração de acesso, condições de cobrança verificadas e links das políticas reais. Não anunciar pagamento único, acesso vitalício, parcelamento ou garantia sem aprovação e implementação.
-
-FAQ DE LANÇAMENTO
-Manter as respostas de finalidade, trilha, amostra e proteção, ajustadas ao escopo entregue.
-Para quem é: incluir somente a faixa etária definida na revisão do conteúdo.
-O que recebo e como acesso: descrever o roteiro e a trilha, a forma real de recebimento do acesso, o período disponível e como recuperar o acesso. Essa resposta depende da entrega testada.
-Atendimento: informar o canal real, seu escopo e as condições de resposta. Não prometer acompanhamento humano se não existir.
-Cancelamento e reembolso: encaminhar à política real e acessível; apresentar apenas condições confirmadas. Nenhuma garantia comercial foi definida nesta revisão.
-
-FECHAMENTO
-Organize a conversa sobre o que aconteceu na escola.
-Tenha o roteiro em três passos e a trilha flexível de sete dias para observar, conversar e combinar apoio no seu ritmo.
-Mãe da Guarda | R$ 19,90
-CTA: Comprar o Mãe da Guarda por R$ 19,90
-
-RODAPÉ DE LANÇAMENTO
-Inserir identificação comercial e canal de suporte reais. Disponibilizar Termos, Privacidade e Cancelamento e reembolso. Manter a nota de conteúdo educativo e imagens ilustrativas. A marca permanece de trabalho até verificação de disponibilidade.
+TEXTOS ALTERNATIVOS DAS IMAGENS
+Mãe escuta o filho no caminho para casa depois da escola
+Crianças conversam em grupo no pátio da escola
 
 
 AMOSTRA | TEXTO APLICADO
@@ -262,12 +217,12 @@ Voltar à página
 PASSO 1 · OBSERVAR
 O que você percebeu até aqui?
 
-Comece separando o que você observou do que ainda precisa entender. Esta tela é um exemplo do roteiro em preparação, não o produto completo.
+Uma cena no recreio pode deixar dúvidas. Nesta amostra, escolha uma situação para ver uma orientação inicial, sem concluir como a criança se sente antes de escutá-la. É uma tela conceitual do roteiro em preparação, não o produto completo.
 
 Escolha uma situação para explorar
 Ainda tenho poucas informações
-Ele parece mais quieto ou sozinho
-Contou que ficou de fora
+Observa a brincadeira sem participar
+Contou que ficou de fora de uma atividade
 Relatou agressão ou ameaça
 Ver orientação inicial
 
@@ -275,9 +230,20 @@ Você pode testar outra opção. A amostra não pede cadastro, não envia suas e
 
 Voltar para a proposta
 
+
 AMOSTRA | RESPOSTAS INTERATIVAS
-Sem seleção: Escolha uma das situações acima para ver uma orientação inicial.
-Ainda tenho poucas informações: Separe o que você já observou das perguntas que ainda tem. Escolha um momento tranquilo para conversar, sem apressar uma conclusão.
-Ele parece mais quieto ou sozinho: Ficar mais quieto, por si só, não explica o que aconteceu. Pergunte como têm sido os dias na escola e dê tempo para ele responder.
-Contou que ficou de fora: Escute o que ele contou e pergunte o que aconteceu, sem completar a história. Converse sobre o apoio que ele gostaria de receber e considere envolver a escola conforme a situação.
-Relatou agressão ou ameaça: Priorize a segurança da criança e procure a escola e os profissionais ou serviços locais adequados. Não espere uma ferramenta digital para buscar ajuda.
+
+Sem seleção
+Escolha uma das situações acima para ver uma orientação inicial.
+
+Ainda tenho poucas informações
+Separe o que você observou do que ainda não sabe. Em um momento tranquilo, experimente perguntar como foi o recreio. A conversa pode ser curta e continuar em outra ocasião.
+
+Observa a brincadeira sem participar
+Observar sem participar não conta a história toda. Pergunte se ele queria entrar na brincadeira ou preferiu ficar olhando. Escute a resposta sem tratar seu jeito como um problema.
+
+Contou que ficou de fora de uma atividade
+Escute o que ele contou e peça que explique o que aconteceu, sem completar a história ou sugerir logo uma solução. Depois, pergunte que apoio ele gostaria de receber e considere envolver a escola conforme a situação.
+
+Relatou agressão ou ameaça
+Priorize a segurança da criança e procure a escola e os profissionais ou serviços locais adequados. Não espere uma ferramenta digital para buscar ajuda.
