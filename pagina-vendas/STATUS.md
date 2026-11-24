@@ -1,6 +1,6 @@
 # Ajustes de identificação e privacidade | 24/11/2026
 
-- CPF incorreto removido das páginas públicas. CNPJ informado não passou nos dígitos verificadores; aguardando correção, sem inventar documento. Nome e endereço preservados.
+- CPF incorreto removido das páginas públicas. Proprietário corrigiu o CNPJ para 47.185.090/0001-04, incluído nos termos e na privacidade. Dígitos verificadores conferidos; não constitui consulta cadastral. Nome Eliza Martins e endereço preservados.
 - Link e FAQ separados de cancelamento/reembolso removidos; condições da compra remetidas à Cakto. Garantia de sete dias preservada.
 - Aviso inicial usa compartilhamento, explicita cookies, dados de navegação, Cakto e Meta. Comportamento de consentimento preservado.
 
