@@ -1,27 +1,36 @@
-# Mãe da Guarda | Página de apresentação
+# Mãe da Guarda | Página, políticas e rastreamento
 
-Projeto estático em HTML, CSS e JavaScript. Paleta, fontes e fotografias aprovadas preservadas. A revisão atual conecta as cenas de convivência escolar das redes a um roteiro de apoio ao adulto.
+Atualização de 24/11/2026. Projeto estático em HTML, CSS e JavaScript, publicado pela integração GitHub/Vercel.
 
 ## Arquivos
 
-- index.html: narrativa, três passos planejados, trilha prevista, oferta e FAQ.
-- styles.css: identidade, leitura e comportamento responsivo.
-- page.js e config.js: validação da compra; configuração comercial vazia e vendas desativadas.
-- amostra.html: demonstração de uma tela do primeiro passo, sem cadastro, envio ou persistência de respostas.
-- assets/: fotografias ilustrativas, sem casos reais ou depoimentos.
-- COPY-FINAL.txt: textos atuais organizados por seção, incluindo respostas da amostra.
-- PENDENCIAS-PARA-PUBLICAR.md: impedimentos reais da venda.
-- STATUS.md: base auditada, operação, mudanças e verificação.
-- backup-revisao-redes-2026-11-23/: cópia local anterior à revisão atual.
+- index.html, styles.css e amostra.html: apresentação e amostra demonstrativa.
+- termos.html, privacidade.html e reembolso.html: políticas e identificação fornecida pelo proprietário.
+- config.js: checkout Cakto, contato da responsável, garantia de sete dias, acesso vitalício e Pixel ID. Compra ainda desativada.
+- page.js: validação das condições de abertura das vendas.
+- marketing.js: consentimento, script Cakto e Meta Pixel. Os scripts publicitários só carregam depois do aceite; a recusa pode ser alterada pelo rodapé.
+- COPY-FINAL.txt: texto atual da página e da amostra.
+- STATUS.md e PENDENCIAS-PARA-PUBLICAR.md: estado real e verificações restantes.
+- preview-local.cjs: servidor de prévia restrito ao computador local.
 
-## Prévia
+## Prévia local
 
-Nesta pasta, execute `node preview-local.cjs` e abra http://127.0.0.1:4184/ . O servidor é restrito ao computador local e não publica o site. Encerre com Ctrl+C.
+Execute `node preview-local.cjs` e abra http://127.0.0.1:4184/ . Encerre com Ctrl+C.
 
-## Estado real
+## Integrações
 
-O produto foi pensado para mães, pais e responsáveis que querem apoiar uma criança na convivência escolar. A estrutura prevista é observar, conversar e combinar apoio, com uma trilha flexível de sete dias. O período organiza pequenas ações do adulto e não é prazo de resultado.
+- Checkout: https://pay.cakto.com.br/anjwoj4_1363309 . O resumo aberto no navegador confirmou total de R$ 19,90. Nenhuma transação foi executada.
+- Metatag de verificação Meta inserida estaticamente no head do index.html. A confirmação no painel Meta será feita pelo proprietário.
+- CNAME pixels.maedaguarda.com.br → pixels.cakto.com.br, TTL 300, configurado na Hostinger e confirmado em consulta pública ao DNS.
+- Script oficial da Cakto incluído em template inerte e carregado após consentimento. Oferta identificada por data-offer=anjwoj4_1363309.
+- Meta Pixel 1407725847226768: código-base PageView após consentimento. Purchase e InitiateCheckout ficam na integração do checkout Cakto, sem disparos de compra pela página de apresentação.
 
-O preço de R$ 19,90 está aprovado. O web app completo ainda não foi implementado. Somente a amostra de uma tela está disponível. Não há operação de suporte, vendedor, checkout, acesso comprado ou políticas configurados. A compra deve permanecer desativada até que a entrega e a operação estejam prontas e testadas.
+## Estado comercial
 
-A publicação da revisão de alinhamento com as redes foi autorizada pelo proprietário em 23/11/2026. O envio à main será acompanhado pela publicação automática da Vercel e pela conferência no domínio. Essa autorização publica a apresentação e a amostra; não abre as vendas, não autoriza anúncios nem compras reais.
+O proprietário confirmou produto pronto, entrega por e-mail e redirecionamento após confirmação do pagamento, acesso vitalício e garantia de sete dias. Forneceu os dados da responsável e o e-mail de atendimento. As políticas incorporam essas condições.
+
+Na conferência pública, app.maedaguarda.com.br ainda exibe rótulo de demonstração e sac.maedaguarda.com.br informa que não envia mensagens. O proprietário informou que está finalizando o SAC. O e-mail de atendimento foi incluído nas políticas, sem criar uma seção adicional de suporte na página principal.
+
+Os botões de compra permanecem desativados até a validação do fluxo real de pagamento e entrega. Não marcar purchaseFlowTested, deliveryFlowTested ou refundFlowTested como verdadeiros com base apenas em carregamento de páginas. A aparência antiga de produto em planejamento foi retirada; permanece somente a indisponibilidade temporária da compra.
+
+Backups, fontes auditadas, evidências e relatório ficam em backup-integracoes-2026-11-24/ e auditoria-integracoes-2026-11-24/, somente na pasta local.

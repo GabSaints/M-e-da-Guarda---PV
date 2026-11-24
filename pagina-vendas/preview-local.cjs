@@ -7,7 +7,7 @@ http.createServer((req,res)=>{
   let requestPath;
   try {requestPath=decodeURIComponent(new URL(req.url,'http://localhost').pathname);} catch {res.writeHead(400);res.end();return;}
   const relative=requestPath==='/'?'index.html':requestPath.replace(/^\//,'');
-  const allowed=['index.html','amostra.html','styles.css','config.js','page.js','assets/hero-mae-filho.jpg','assets/patio-escola.jpg'];
+  const allowed=['index.html','amostra.html','styles.css','config.js','page.js','assets/hero-mae-filho.jpg','assets/patio-escola.jpg','marketing.js','termos.html','privacidade.html','reembolso.html'];
   if(!allowed.includes(relative)){res.writeHead(404);res.end('Não encontrado');return;}
   fs.readFile(path.join(root,relative),(error,data)=>{
     if(error){res.writeHead(404);res.end('Não encontrado');return;}

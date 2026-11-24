@@ -1,51 +1,32 @@
-# Status | Revisão de alinhamento com as redes
+# Status | Integrações de 24/11/2026
 
-Atualizado em 23/11/2026. Revisão local concluída. Publicação autorizada pelo proprietário em nova instrução, com conferência da atualização automática da Vercel.
+## Configurado
 
-## Base e operação auditadas
+- Identificação da responsável e contato fornecidos pelo proprietário. Documento validado quanto aos dígitos verificadores; não é uma verificação externa de identidade.
+- Checkout real inserido em config.js. Total público de R$ 19,90 conferido no navegador, sem gerar Pix, comprar ou enviar dados pessoais ao checkout.
+- Garantia de sete dias e acesso vitalício incorporados à página e às políticas.
+- Termos, privacidade e cancelamento/reembolso criados em páginas próprias. E-mail de atendimento nas políticas; removida a seção de suporte da página principal, conforme solicitado.
+- Metatag facebook-domain-verification estática no head do HTML principal, com o código fornecido.
+- CNAME pixels.maedaguarda.com.br → pixels.cakto.com.br, TTL 300, salvo na Hostinger. Consulta pública ao resolvedor 1.1.1.1 confirmou o destino.
+- Script Cakto e Meta Pixel 1407725847226768 configurados com carregamento após consentimento. Sem Purchase ou InitiateCheckout manuais na página de apresentação.
+- Preferência de rastreamento lembrada por até 180 dias. Recusa inicial não carrega os scripts. Revogação limpa os identificadores locais conhecidos e recarrega para interromper listeners do script externo.
+- Marca de trabalho preservada. Nenhuma promessa de popularidade, amizade, fim do bullying ou resultado clínico.
 
-- Projeto: index.html, styles.css, page.js e config.js. Amostra: amostra.html. Duas fotografias ilustrativas em assets/.
-- Main auditada no GitHub: 49a4fe0912977ccb28571e1fc2cd72fda7621f5d. É a revisão anterior, já publicada com autorização. Nenhum app, SAC ou checkout novo aparece na árvore do repositório.
-- Estado local: web app completo e trilha ainda não implementados. Amostra de uma tela permite escolher uma situação e exibir uma orientação inicial. Não salva nem envia respostas.
-- Vendedor, canal de suporte, acesso comercial, checkout e URLs de políticas continuam vazios em config.js. Todas as aprovações de venda continuam false. Os dois botões de compra seguem disabled no HTML.
-- Preço aprovado: R$ 19,90. Sem desconto, preço anterior ou garantia comercial inventados.
-- Marca de trabalho: Mãe da Guarda. Disponibilidade ainda não verificada.
+## Verificado nesta execução
 
-## Alterações editoriais
+- As cinco páginas HTML têm referências locais e âncoras válidas, um h1 por página e nenhum ID duplicado. Conferidas 65 referências locais.
+- Sintaxe de marketing.js, page.js, config.js e preview-local.cjs válida.
+- Metatag presente estaticamente uma única vez no head do arquivo. Confirmação no HTML público acontece após o deploy.
+- No navegador local: antes do aceite e após a recusa, nenhum script de fornecedor foi inserido. Após o aceite, Cakto e Meta carregaram. Repetir o aceite manteve somente duas instâncias de script, uma de cada fornecedor. Revogar e recarregar retirou ambos.
+- Políticas abertas no navegador. Termos, privacidade e reembolso conferidos em viewport de 390 px, sem transbordamento horizontal nas medições realizadas.
+- Teste isolado do script público da Cakto validou encaminhamento das UTMs e fbclid, preservação de parâmetros já definidos no checkout e proteção contra inicialização repetida. O teste isolado não enviou requisições à Cakto.
+- Os dois botões de compra continuam disabled. A validação comercial não foi liberada artificialmente.
 
-- Abertura com a cena de observar a brincadeira sem entrar, seguida da ajuda concreta ao adulto: organizar observações, conversar e combinar apoio.
-- Distinção entre preferir grupos menores, ter poucos amigos e querer participar sem encontrar abertura. Nenhuma dessas cenas isoladamente comprova bullying ou problema clínico.
-- Ordem narrativa alinhada às seis publicações: reunir contexto, respeitar o jeito da criança, fazer uma pergunta, escutar antes de sugerir, permitir uma conversa curta e organizar apoio.
-- Três passos apresentados como planejamento. Somente a tela do primeiro passo é oferecida como demonstração existente; não há promessa de recursos prontos nas outras etapas.
-- Trilha descrita como continuidade para o adulto, com pausas e retomadas. Sem prazo para mudar comportamento, conseguir amigos ou resolver bullying.
-- Amostra revisada para situações da convivência e respostas coerentes com a página. Nenhum treinamento infantil ou exercício de habilidades sociais foi acrescentado.
-- Público inclui mães, pais e responsáveis. Identidade visual, fontes e fotografias preservadas.
-- Backup anterior a esta execução: backup-revisao-redes-2026-11-23/. A versão original também está em backup-revisao-2026-11-23/.
-- Textos por seção: COPY-FINAL.txt. Impedimentos reais: PENDENCIAS-PARA-PUBLICAR.md.
+## Limites e próximos testes
 
-## Verificação desta execução
-
-Os resultados são registrados após a conferência da nova versão. As capturas antigas em revisao-visual/ pertencem à revisão anterior; não comprovam a versão atual.
-
-### Resultados concluídos
-
-- Página principal e amostra abertas no navegador pelo servidor local. Conferência visual da página no computador (1280 px) e celular (390 px), incluindo a tela conceitual, trilha e fechamento. Medições adicionais em 320 e 768 px sem transbordamento horizontal. Não foi usado aparelho físico.
-- As duas imagens carregaram. Fotografias e URL das fontes conferidas contra o backup, sem alterações.
-- Amostra: testados o caso sem seleção e as quatro opções. As orientações foram registradas em COPY-FINAL.txt. Após recarregar, nenhuma seleção permaneceu.
-- Teclado: primeiro Tab alcança o atalho para o conteúdo e Enter move o foco ao main. Na amostra, Espaço, seta, Tab e Enter permitiram escolher uma situação e mostrar sua orientação. Foco visível confirmado.
-- FAQ novo aberto por clique e recolhido com Enter. Navegação para a amostra e retorno à página funcionaram.
-- Vinte referências locais de arquivos e âncoras conferidas. Um h1 por página e nenhum ID duplicado. Sintaxe dos scripts inline, config.js e page.js válida.
-- Dois botões de compra continuam disabled. Execução isolada confirmou que salesEnabled sozinho não permite a ativação comercial. URLs e demais validações permanecem sem configuração.
-- Nenhum código de persistência ou envio de respostas na amostra. Nenhum aviso ou erro retornado na leitura do console realizada.
-- Correspondência automática entre os textos de títulos, parágrafos, listas, botões e FAQ do HTML principal e COPY-FINAL.txt confirmada. A redação da amostra e suas respostas também estão no arquivo.
-- Evidências desta revisão: revisao-visual-redes/computador.jpg, celular.jpg, pagina-completa.jpg e amostra-celular.jpg. Capturas anteriores permanecem em revisao-visual/.
-- Limites: sem auditoria completa por leitor de tela, aparelho físico, compra, entrega comercial ou reembolso reais. Referências externas e políticas não foram alteradas nesta execução.
-- Nenhuma alteração enviada ao GitHub e nenhuma publicação ou anúncio realizado. O servidor de teste é encerrado ao concluir. Para reabrir a prévia, executar node preview-local.cjs e acessar http://127.0.0.1:4184/.
-
-
-## Publicação autorizada
-
-- A main foi conferida novamente antes do envio. Os sete arquivos revisados na base coincidem com o backup local; não há alterações novas a conciliar.
-- Autorizado enviar a revisão à main e testar a atualização automática da Vercel.
-- Compra continua desativada e a operação comercial permanece pendente. Nenhum anúncio ou pagamento real faz parte desta publicação.
-- As capturas e os backups ficam somente na pasta local; não são enviados ao repositório.
+- Nenhum pagamento, recebimento de e-mail de acesso, redirecionamento pós-compra ou reembolso real foi executado.
+- Eventos recebidos no Gerenciador de Eventos Meta e nos relatórios da Cakto precisam ser confirmados nesses painéis. Carregamento do script não comprova recebimento de conversão.
+- Não foi configurado Token de API de Conversões, pois não foi fornecido. O pixel cadastrado no painel Cakto foi informado pelo proprietário; suas opções internas não foram alteradas.
+- A plataforma pública ainda exibe rótulo de demonstração. O SAC público ainda informa que não envia mensagens; o proprietário está finalizando esse serviço. As políticas têm um e-mail de atendimento como alternativa.
+- O checkout exibe três depoimentos. Não foram criados ou alterados por esta execução; autenticidade e autorizações não foram aferidas.
+- Publicação solicitada pelo proprietário. Base da main antes do envio: ee3c0de69e1d2773c49ce8f019be978a6faec6d5. O resultado do deploy será registrado no relatório local.

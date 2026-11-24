@@ -27,7 +27,7 @@
     button.replaceWith(link);
   });
   document.getElementById('access-description').textContent = c.accessDescription;
-  document.getElementById('seller-line').textContent = `${c.sellerName} · Suporte: ${c.supportEmail}`;
+  document.getElementById('seller-line').textContent = `Mãe da Guarda · ${c.sellerName}`;
   [['terms-link', c.termsUrl], ['privacy-link', c.privacyUrl], ['refund-link', c.refundPolicyUrl]].forEach(([id, url]) => {
     const link = document.getElementById(id);
     link.href = url;

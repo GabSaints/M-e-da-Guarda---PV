@@ -1,18 +1,19 @@
-# Pendências para publicar a versão comercial
+# Pendências para abrir as vendas
 
-Revisão de alinhamento entre redes e página em 23/11/2026. O preço aprovado é R$ 19,90. A versão de apresentação anterior foi publicada mediante autorização; a publicação desta nova revisão de apresentação também foi autorizada pelo proprietário, sem abertura das vendas.
+Atualização de 24/11/2026. Preço, checkout, identificação da responsável, contato por e-mail, acesso vitalício e garantia de sete dias foram fornecidos. Termos, privacidade e política de reembolso estão implementados.
 
-| Impedimento real | Onde afeta a página | O que resolve |
-| --- | --- | --- |
-| Produto completo e entrega ausentes | Apresentação dos três passos, trilha, oferta e FAQ de acesso | Concluir e testar o web app com observar, conversar e combinar apoio e a trilha flexível. Nesta pasta e na main auditada há apenas a página e uma tela conceitual do primeiro passo. A amostra não entrega as outras etapas. |
-| Conteúdo final, público etário e escopo de uso não definidos | Mecanismo, conteúdo incluído e FAQ | Validar o conteúdo das etapas, definir a faixa etária e confirmar os recursos efetivamente implementados. A página não promete exercícios para a criança, treinamento de habilidades sociais, modelos, notificações ou acompanhamento. |
-| Condições de acesso não definidas | Oferta, checkout e FAQ de recebimento | Informar como o comprador recebe e recupera o acesso, por quanto tempo pode usar o produto e em quais dispositivos. Testar esse fluxo com a entrega completa. |
-| Vendedor sem identificação configurada | Rodapé, condições comerciais e checkout | Fornecer a identificação comercial e os dados de contato reais. Preencher sellerName com informações verificadas. |
-| Suporte não conectado | FAQ de atendimento e rodapé | Definir canal, escopo e condições de resposta; testar recebimento e atendimento. supportEmail está vazio. Não há SAC ou preparador de mensagens na pasta nem na árvore da main auditada. Não há base para anunciar atendimento ou acompanhamento individual. |
-| Políticas e fluxo de cancelamento/reembolso ausentes | Links do rodapé, FAQ e checkout | Disponibilizar termos, privacidade e condições de cancelamento/reembolso correspondentes à operação real. Validar o tratamento de dados do app e testar os fluxos aplicáveis. As URLs estão vazias; a página não anuncia garantia comercial. |
-| Checkout sem configuração e sem teste | Botões de compra e cartão de preço | Configurar o produto por R$ 19,90 com condições de cobrança confirmadas. Testar pagamento, confirmação, entrega, suporte e reembolso. checkoutUrl está vazio; nenhuma compra real foi realizada nesta revisão. |
-| Disponibilidade da marca de trabalho não verificada | Nome e identidade | Verificar a disponibilidade de Mãe da Guarda para o uso pretendido. O registro do domínio não substitui essa verificação. |
+- [ ] Validar o fluxo real ou um fluxo oficial de teste da Cakto: aprovação do pagamento, link enviado por e-mail, redirecionamento e acesso ao produto correto. Nenhuma compra foi feita por esta execução.
+- [ ] Confirmar o tratamento operacional de um pedido de reembolso e seu efeito sobre o acesso. Não marcar testes como realizados sem evidência.
+- [ ] Finalizar o SAC, conforme informado pelo proprietário. Até isso acontecer, o canal de atendimento nas políticas é o e-mail fornecido. O SAC público ainda informa que só prepara mensagens.
+- [ ] Conferir o rótulo de demonstração ainda visível em app.maedaguarda.com.br e a correspondência entre a entrega final e a página. Não há alteração no código da plataforma nesta pasta.
+- [ ] Conferir no checkout e na plataforma os links das novas políticas e as condições de acesso vitalício e garantia de sete dias. Esses ambientes ficam fora desta pasta.
+- [ ] Confirmar a disponibilidade da marca de trabalho para o uso pretendido.
 
-A abertura das vendas depende da resolução dos itens acima e da conferência final entre a página e o produto entregue. Só então atualizar avisos e FAQs de indisponibilidade, informar condições reais e configurar as validações de compra. Não basta alterar salesEnabled.
+Para iniciar e medir as campanhas:
 
-A amostra permanece acessível e os botões de compra permanecem desativados. A autorização de publicação da página e da amostra não resolve os impedimentos comerciais acima. Não são executados anúncios ou transações.
+- [ ] O proprietário deve clicar em Verificar domínio no Meta depois de a metatag estar publicada.
+- [ ] Confirmar/selecionar o domínio pixels.maedaguarda.com.br no painel da Cakto, conforme a configuração que o painel exigir. O CNAME já está salvo e resolve publicamente.
+- [ ] Conferir os eventos recebidos nos painéis Meta/Cakto. A página envia somente PageView ao Meta após aceite; as conversões de checkout e compra são da Cakto. Confirmar que Purchase corresponde à condição de conversão desejada, especialmente no Pix.
+- [ ] Validar a atribuição em uma campanha e conversão de teste. Encaminhamento de UTMs foi aprovado em teste isolado, não em uma compra real.
+
+Os CTAs continuam desativados até a validação comercial. Configurar checkoutUrl e carregar o pixel não substituem esses testes.
