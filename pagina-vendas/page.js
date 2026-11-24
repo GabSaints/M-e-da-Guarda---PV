@@ -28,7 +28,7 @@
   // As condições reais também ficam disponíveis sem JavaScript no HTML.
   if (!ready) return;
   document.getElementById('seller-line').textContent = `Mãe da Guarda · ${c.sellerName}`;
-  [['terms-link', c.termsUrl], ['privacy-link', c.privacyUrl], ['refund-link', c.refundPolicyUrl]].forEach(([id, url]) => {
+  [['terms-link', c.termsUrl], ['privacy-link', c.privacyUrl]].forEach(([id, url]) => {
     const link = document.getElementById(id);
     link.href = url;
     link.hidden = false;

@@ -1,3 +1,11 @@
+# Ajustes de identificação e privacidade | 24/11/2026
+
+- CPF incorreto removido das páginas públicas. CNPJ informado não passou nos dígitos verificadores; aguardando correção, sem inventar documento. Nome e endereço preservados.
+- Link e FAQ separados de cancelamento/reembolso removidos; condições da compra remetidas à Cakto. Garantia de sete dias preservada.
+- Aviso inicial usa compartilhamento, explicita cookies, dados de navegação, Cakto e Meta. Comportamento de consentimento preservado.
+
+---
+
 # Abertura de vendas autorizada | 24/11/2026
 
 - Proprietário determinou iniciar o tráfego, retirar avisos de indisponibilidade e deixar a página em versão de vendas. Esta instrução substitui o bloqueio editorial anterior da compra.
