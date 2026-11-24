@@ -5,5 +5,5 @@ window.MAE_DA_GUARDA_CONFIG = {
   metaPixelId: '1407725847226768', guaranteeDays: 7, lifetimeAccess: true,
   productReady: true, deliveryFlowTested: false, supportReady: false,
   editorialApproved: false, legalApproved: false,
-  purchaseFlowTested: false, refundFlowTested: false, salesEnabled: false
+  purchaseFlowTested: false, refundFlowTested: false, salesEnabled: true
 };

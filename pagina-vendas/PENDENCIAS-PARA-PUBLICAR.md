@@ -1,4 +1,4 @@
-# Pendências para abrir as vendas
+# Verificações operacionais após a abertura autorizada
 
 Atualização de 24/11/2026. Preço, checkout, identificação da responsável, contato por e-mail, acesso vitalício e garantia de sete dias foram fornecidos. Termos, privacidade e política de reembolso estão implementados.
 
@@ -16,4 +16,4 @@ Para iniciar e medir as campanhas:
 - [ ] Conferir os eventos recebidos nos painéis Meta/Cakto. A página envia somente PageView ao Meta após aceite; as conversões de checkout e compra são da Cakto. Confirmar que Purchase corresponde à condição de conversão desejada, especialmente no Pix.
 - [ ] Validar a atribuição em uma campanha e conversão de teste. Encaminhamento de UTMs foi aprovado em teste isolado, não em uma compra real.
 
-Os CTAs continuam desativados até a validação comercial. Configurar checkoutUrl e carregar o pixel não substituem esses testes.
+O proprietário autorizou expressamente a abertura em 24/11/2026. Os CTAs estão ativos e os avisos de indisponibilidade foram removidos. Os itens acima permanecem como verificações operacionais pendentes, sem serem apresentados como impedimentos na página. Não alterar os flags de teste para true sem evidência.

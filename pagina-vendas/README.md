@@ -6,7 +6,7 @@ Atualização de 24/11/2026. Projeto estático em HTML, CSS e JavaScript, public
 
 - index.html, styles.css e amostra.html: apresentação e amostra demonstrativa.
 - termos.html, privacidade.html e reembolso.html: políticas e identificação fornecida pelo proprietário.
-- config.js: checkout Cakto, contato da responsável, garantia de sete dias, acesso vitalício e Pixel ID. Compra ainda desativada.
+- config.js: checkout Cakto, contato da responsável, garantia de sete dias, acesso vitalício e Pixel ID. Vendas ativadas por instrução expressa do proprietário.
 - page.js: validação das condições de abertura das vendas.
 - marketing.js: consentimento, script Cakto e Meta Pixel. Os scripts publicitários só carregam depois do aceite; a recusa pode ser alterada pelo rodapé.
 - COPY-FINAL.txt: texto atual da página e da amostra.
@@ -31,6 +31,8 @@ O proprietário confirmou produto pronto, entrega por e-mail e redirecionamento 
 
 Na conferência pública, app.maedaguarda.com.br ainda exibe rótulo de demonstração e sac.maedaguarda.com.br informa que não envia mensagens. O proprietário informou que está finalizando o SAC. O e-mail de atendimento foi incluído nas políticas, sem criar uma seção adicional de suporte na página principal.
 
-Os botões de compra permanecem desativados até a validação do fluxo real de pagamento e entrega. Não marcar purchaseFlowTested, deliveryFlowTested ou refundFlowTested como verdadeiros com base apenas em carregamento de páginas. A aparência antiga de produto em planejamento foi retirada; permanece somente a indisponibilidade temporária da compra.
+Em nova instrução de 24/11/2026, o proprietário autorizou a abertura das vendas e a retirada dos avisos de indisponibilidade para iniciar o tráfego. Os três CTAs usam o checkout real já fornecido e funcionam como links no HTML, inclusive sem JavaScript. A validação de configuração continua verificando checkout HTTPS, produto e dados comerciais. Os flags purchaseFlowTested, deliveryFlowTested e refundFlowTested permanecem false como registro dos testes ainda não executados; não são usados para contradizer esta autorização de abertura.
 
 Backups, fontes auditadas, evidências e relatório ficam em backup-integracoes-2026-11-24/ e auditoria-integracoes-2026-11-24/, somente na pasta local.
+
+Ao trocar a oferta, atualizar config.js, os três hrefs data-buy em index.html e o data-offer do tracker Cakto, mantendo preço e políticas coerentes. O checkout atual é o fornecido pelo proprietário; não foi criado link provisório.

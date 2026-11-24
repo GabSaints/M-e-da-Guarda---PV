@@ -1,3 +1,15 @@
+# Abertura de vendas autorizada | 24/11/2026
+
+- Proprietário determinou iniciar o tráfego, retirar avisos de indisponibilidade e deixar a página em versão de vendas. Esta instrução substitui o bloqueio editorial anterior da compra.
+- salesEnabled: true. Três CTAs ativos, com href estático e validação de configuração, usando https://pay.cakto.com.br/anjwoj4_1363309.
+- Removidos os avisos de compras indisponíveis da faixa, primeira dobra, oferta e FAQ. Preservadas garantia de sete dias, acesso vitalício, políticas, metatag e rastreamento com consentimento.
+- O checkout atual foi mantido; o proprietário informou que poderá ajustá-lo depois.
+- Teste local: três links estáticos corretos, configuração válida ativa os links, checkout inválido desativa os links. Flags de testes operacionais preservados como false.
+- Nenhum pagamento, recebimento de e-mail ou reembolso foi simulado como testado.
+- Cópia anterior: backup-abertura-vendas-2026-11-24/.
+
+---
+
 # Status | Integrações de 24/11/2026
 
 ## Configurado
