@@ -8,7 +8,7 @@ Atualização de 24/11/2026. Projeto estático em HTML, CSS e JavaScript, public
 - termos.html, privacidade.html e reembolso.html: políticas e identificação fornecida pelo proprietário.
 - config.js: checkout Cakto, contato da responsável, garantia de sete dias, acesso vitalício e Pixel ID. Vendas ativadas por instrução expressa do proprietário.
 - page.js: validação das condições de abertura das vendas.
-- marketing.js: consentimento, script Cakto e Meta Pixel. Os scripts publicitários só carregam depois do aceite; a recusa pode ser alterada pelo rodapé.
+- marketing.js: consentimento, script Cakto e Meta Pixel. Meta PageView inicia na abertura, salvo recusa salva. Cakto só carrega após ativação. Preferências podem ser alteradas pelo rodapé.
 - COPY-FINAL.txt: texto atual da página e da amostra.
 - STATUS.md e PENDENCIAS-PARA-PUBLICAR.md: estado real e verificações restantes.
 - preview-local.cjs: servidor de prévia restrito ao computador local.
@@ -23,7 +23,7 @@ Execute `node preview-local.cjs` e abra http://127.0.0.1:4184/ . Encerre com Ctr
 - Metatag de verificação Meta inserida estaticamente no head do index.html. A confirmação no painel Meta será feita pelo proprietário.
 - CNAME pixels.maedaguarda.com.br → pixels.cakto.com.br, TTL 300, configurado na Hostinger e confirmado em consulta pública ao DNS.
 - Script oficial da Cakto incluído em template inerte e carregado após consentimento. Oferta identificada por data-offer=anjwoj4_1363309.
-- Meta Pixel 1407725847226768: código-base PageView após consentimento. Purchase e InitiateCheckout ficam na integração do checkout Cakto, sem disparos de compra pela página de apresentação.
+- Meta Pixel 1407725847226768: código-base PageView na abertura, respeitando desativação salva. Purchase e InitiateCheckout ficam na integração do checkout Cakto, sem disparos de compra pela página de apresentação.
 
 ## Estado comercial
 

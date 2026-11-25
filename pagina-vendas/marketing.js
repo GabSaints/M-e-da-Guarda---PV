@@ -5,8 +5,8 @@
   const banner = document.getElementById('privacy-banner');
   const accept = document.getElementById('privacy-accept');
   const reject = document.getElementById('privacy-reject');
-  if (!banner || !accept || !reject) return;
-  let started = false;
+  let metaStarted = false;
+  let caktoStarted = false;
   let trigger = null;
   const read = () => {
     try {
@@ -25,13 +25,12 @@
       }
     }
   };
-  const loadMarketing = () => {
-    if (started) return;
-    started = true;
-    document.documentElement.dataset.marketingConsent = 'accepted';
+  const loadCakto = () => {
+    if (caktoStarted) return;
     // Cria uma instância executável do script exato fornecido pela Cakto.
     const source = document.getElementById('cakto-tracker-template')?.content.querySelector('script');
     if (source) {
+      caktoStarted = true;
       const script = document.createElement('script');
       script.src = source.getAttribute('src');
       script.async = true;
@@ -41,8 +40,12 @@
       script.onerror = () => { document.documentElement.dataset.caktoTracking = 'error'; };
       document.head.appendChild(script);
     }
+  };
+  const loadMeta = () => {
+    if (metaStarted) return;
     const id = window.MAE_DA_GUARDA_CONFIG?.metaPixelId;
     if (!/^\d+$/.test(id || '')) return;
+    metaStarted = true;
     // Código-base Meta. Sem correspondência avançada e sem evento Purchase nesta página.
     if (!window.fbq) {
       const queue = function () { queue.callMethod ? queue.callMethod.apply(queue, arguments) : queue.queue.push(arguments); };
@@ -61,14 +64,29 @@
     window.fbq('init', id);
     window.fbq('track', 'PageView');
   };
+  const choice = read();
+  // PageView na abertura por instrução do proprietário em 25/11/2026.
+  // Uma recusa já registrada continua sendo respeitada.
+  document.documentElement.dataset.marketingConsent = choice || 'automatic';
+  if (choice === 'rejected') clearIdentifiers();
+  else loadMeta();
+  if (choice === 'accepted') loadCakto();
+  // O disparo inicial não depende da presença ou do clique no aviso.
+  if (!banner || !accept || !reject) return;
   const close = () => { banner.hidden = true; if (trigger) trigger.focus(); };
-  accept.addEventListener('click', () => { store('accepted'); loadMarketing(); close(); });
+  accept.addEventListener('click', () => {
+    store('accepted');
+    document.documentElement.dataset.marketingConsent = 'accepted';
+    loadMeta();
+    loadCakto();
+    close();
+  });
   reject.addEventListener('click', () => {
     store('rejected');
     clearIdentifiers();
     document.documentElement.dataset.marketingConsent = 'rejected';
     close();
-    if (started) {
+    if (metaStarted || caktoStarted) {
       if (window.fbq) window.fbq('consent', 'revoke');
       // A Cakto não expõe API de desligamento: recarregar remove seus listeners.
       location.reload();
@@ -79,11 +97,6 @@
     banner.hidden = false;
     reject.focus();
   }));
-  const choice = read();
-  if (choice === 'accepted') loadMarketing();
-  else if (choice === 'rejected') {
-    clearIdentifiers();
-    document.documentElement.dataset.marketingConsent = 'rejected';
-  } else banner.hidden = false;
+  if (!choice) banner.hidden = false;
   if (location.hash === '#preferencias-de-cookies') { banner.hidden = false; reject.focus(); }
 })();

@@ -1,3 +1,12 @@
+# PageView imediato | 25/11/2026
+
+- Proprietário solicitou PageView sem aguardar autorização. Meta inicia na abertura se não houver recusa salva. Não tratamos a ausência de escolha como consentimento: estado automatic.
+- Aceite continua necessário para o tracker Cakto. Desativação anterior preservada; desativar interrompe scripts após recarga. Ativar não duplica PageView.
+- Aviso e privacidade descrevem o comportamento real. Alteração técnica não equivale a uma avaliação de base legal.
+- Não adicionada API de Conversões à página nem InitiateCheckout em clique. O diagnóstico de cobertura de InitiateCheckout é da integração de checkout/servidor.
+
+---
+
 # Ajustes de identificação e privacidade | 24/11/2026
 
 - CPF incorreto removido das páginas públicas. Proprietário corrigiu o CNPJ para 47.185.090/0001-04, incluído nos termos e na privacidade. Dígitos verificadores conferidos; não constitui consulta cadastral. Nome Eliza Martins e endereço preservados.
