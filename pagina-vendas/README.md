@@ -1,10 +1,11 @@
 # Mãe da Guarda | Página, políticas e rastreamento
 
-Atualização de 24/11/2026. Projeto estático em HTML, CSS e JavaScript, publicado pela integração GitHub/Vercel.
+Atualização de 26/11/2026. Projeto estático em HTML, CSS e JavaScript, publicado pela integração GitHub/Vercel.
 
 ## Arquivos
 
-- index.html, styles.css e amostra.html: apresentação e amostra demonstrativa.
+- index.html e styles.css: oferta de guia adaptável para conversas difíceis. CTA inicial leva à oferta final, único bloco com preço e compra.
+- amostra.html e amostra.js: seis cenas ilustrativas e três faixas etárias, sem cadastro ou persistência das escolhas.
 - termos.html, privacidade.html e reembolso.html: políticas e identificação fornecida pelo proprietário.
 - config.js: checkout Cakto, contato da responsável, garantia de sete dias, acesso vitalício e Pixel ID. Vendas ativadas por instrução expressa do proprietário.
 - page.js: validação das condições de abertura das vendas.
@@ -31,8 +32,8 @@ O proprietário confirmou produto pronto, entrega por e-mail e redirecionamento 
 
 Na conferência pública, app.maedaguarda.com.br ainda exibe rótulo de demonstração e sac.maedaguarda.com.br informa que não envia mensagens. O proprietário informou que está finalizando o SAC. O e-mail de atendimento foi incluído nas políticas, sem criar uma seção adicional de suporte na página principal.
 
-Em nova instrução de 24/11/2026, o proprietário autorizou a abertura das vendas e a retirada dos avisos de indisponibilidade para iniciar o tráfego. Os três CTAs usam o checkout real já fornecido e funcionam como links no HTML, inclusive sem JavaScript. A validação de configuração continua verificando checkout HTTPS, produto e dados comerciais. Os flags purchaseFlowTested, deliveryFlowTested e refundFlowTested permanecem false como registro dos testes ainda não executados; não são usados para contradizer esta autorização de abertura.
+Em nova instrução de 24/11/2026, o proprietário autorizou a abertura das vendas e a retirada dos avisos de indisponibilidade para iniciar o tráfego. O CTA de compra usa o checkout real já fornecido e funciona como link no HTML, inclusive sem JavaScript. CTAs anteriores levam à seção final ou à amostra. A validação de configuração continua verificando checkout HTTPS, produto e dados comerciais. Os flags purchaseFlowTested, deliveryFlowTested e refundFlowTested permanecem false como registro dos testes ainda não executados; não são usados para contradizer esta autorização de abertura.
 
 Backups, fontes auditadas, evidências e relatório ficam em backup-integracoes-2026-11-24/ e auditoria-integracoes-2026-11-24/, somente na pasta local.
 
-Ao trocar a oferta, atualizar config.js, os três hrefs data-buy em index.html e o data-offer do tracker Cakto, mantendo preço e políticas coerentes. O checkout atual é o fornecido pelo proprietário; não foi criado link provisório.
+Ao trocar a oferta, atualizar config.js, o href data-buy em index.html e o data-offer do tracker Cakto, mantendo preço e políticas coerentes. O checkout atual é o fornecido pelo proprietário; não foi criado link provisório.

@@ -1,3 +1,16 @@
+# Novo ângulo: guia para conversas difíceis | 26/11/2026
+
+- Proprietário solicitou reposicionamento e informou que ajustará o produto para esta oferta. Personalização descrita como adaptação pelo adulto, sem inventar tecnologia ou autoria clínica.
+- Primeira seção sem preço ou compra direta. CTA usa âncora #oferta com rolagem suave; preço e compra na seção final. Condições abaixo dos CTAs resumidas à garantia de satisfação de sete dias.
+- Removidos da apresentação o foco em três passos, trilha e prazo de sete dias, mensagens de pagamento via Cakto e envio de acesso. Direitos de acesso vitalício permanecem nos termos.
+- Amostra: seis cenas, três faixas etárias, sugestões de abertura, respostas a evitar, acompanhamento e busca de apoio. Sem nomes, relatos, cadastro, envio de formulário ou armazenamento das escolhas.
+- Premiação Nacional de Educação 2026 incluída conforme confirmação expressa do proprietário em 26/11/2026; comprovante será fornecido por ele. Não houve verificação independente, criação de selo ou afirmação sobre organizador.
+- Não usada a alegação de dano permanente causado por uma resposta isolada. Copy permite reparação e retomada, sem culpabilizar a mãe ou prometer resultados.
+- Pixel, script Cakto, checkout e identificação preservados.
+- Verificado: 42 referências locais e âncoras, IDs únicos e sintaxe. No navegador, 18 combinações com respostas distintas, sem erro de console; computador e celular sem transbordamento. CTA inicial alcança o cartão de preço e compra no celular. Evidências em auditoria-angulo-conversas-2026-11-26/.
+
+---
+
 # PageView imediato | 25/11/2026
 
 - Proprietário solicitou PageView sem aguardar autorização. Meta inicia na abertura se não houver recusa salva. Não tratamos a ausência de escolha como consentimento: estado automatic.
